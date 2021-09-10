@@ -1,2 +1,2 @@
-# Proyecto_App
-Proyecto App + Firebase
+# Parcial - Google Service y Firebase
+Eduardo Benavides
